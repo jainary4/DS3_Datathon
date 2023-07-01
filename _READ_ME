@@ -1,0 +1,7 @@
+This is an excrept from the March 2023 Datathon Conducted by the DS3 society of University of Toronto Scarborough. 
+The Datathon.R file includes the bulk of the code that is inspired by the tree based regression model used to analyze data and make prediction models
+We found an API that had the basic framework to implement it in R and the specific implementation used by us is included in the Datathon.R file. 
+We sorted the data in according to the predicted data sample file we recieved using a n-polynomial approximation used in standard normal model statistics 
+The final results of our efforts are presented in the screenshort of a csv file that gives the predicted remaining battery life in cells manufactured in 
+a particular factory. 
+
